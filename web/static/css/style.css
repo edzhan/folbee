@@ -623,11 +623,11 @@ border: 2px solid #fff;
 }
 .contact-info-box h3{
 	font-size: 15px;
-	font-weight:400;
-	float:left;
-	width:102px;
-	margin-right:12px;
-	line-height:28px;
+	font-weight: 400;
+	float: left;
+	width: 104px;
+	margin-right: 12px;
+	line-height: 28px;
 }
 .contact-info-box h3 i{
 	font-style:normal;
